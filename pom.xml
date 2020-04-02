@@ -116,7 +116,7 @@
         <dependencies>
             <dependency>
                 <groupId>com.google.jsinterop</groupId>
-                <artifactId>js-interop-annotations</artifactId>
+                <artifactId>jsinterop-annotations</artifactId>
                 <version>2.0.0</version>
             </dependency>
         </dependencies>
