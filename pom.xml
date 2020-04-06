@@ -13,6 +13,7 @@
 
     <properties>
         <j2cl.version>0.7-SNAPSHOT</j2cl.version>
+        <junit.version>4.12</junit.version>
     </properties>
 
     <licenses>
@@ -88,12 +89,6 @@
             <groupId>com.vertispan.j2cl</groupId>
             <artifactId>junit-emul</artifactId>
             <version>${j2cl.version}</version>
-        </dependency>
-
-        <dependency>
-            <groupId>com.vertispan.j2cl</groupId>
-            <artifactId>junit-emul</artifactId>
-            <version>${j2cl.version}</version>
             <classifier>sources</classifier>
         </dependency>
 
@@ -109,6 +104,12 @@
             <version>${j2cl.version}</version>
             <type>zip</type>
             <classifier>jszip</classifier>
+        </dependency>
+
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>${junit.version}</version>
         </dependency>
     </dependencies>
 
