@@ -200,9 +200,9 @@
 
     <distributionManagement>
         <repository>
-            <id>github-packages-mP1-maven-repo</id>
-            <name>github-packages-mP1-maven-repo</name>
-            <url>https://maven.pkg.github.com/mP1/maven-repo</url>
+            <id>github-mp1-appengine-repo</id>
+            <name>github.com/mP1 repository</name>
+            <url>https://maven-repo-254709.appspot.com</url>
         </repository>
     </distributionManagement>
 </project>
