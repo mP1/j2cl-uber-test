@@ -105,6 +105,17 @@
             <version>v20230718-1</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.vertispan.j2cl</groupId>
+            <artifactId>junit-annotations</artifactId>
+            <version>v20230718-1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.vertispan.j2cl</groupId>
+            <artifactId>junit-async</artifactId>
+            <version>v20230718-1</version>
+        </dependency>
     </dependencies>
 
     <dependencyManagement>
